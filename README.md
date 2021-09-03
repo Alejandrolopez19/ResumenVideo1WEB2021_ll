@@ -2,19 +2,20 @@
 
 ## Tendencias en el Desarrollo de Software moderno
 
-#### https://www.youtube.com/watch?v=q3c_q5krmw4&list=LL&index=4&t=169s
 
- ![Video Youtube](https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png)(https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5)
- - [![HTML5](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAjVBMVEX////kKyb///7lMi34ycfqQj394eDkLCf//PzkKCP++Pj+9/f97e3mODPnPTj+8PD85uX72djoR0PrUk761NPtYV383t3vbGntXVntWVXpSkbyi4jzmpj85OP60tHznpz2sK71hIDzeHXtZmL2q6n6y8n0kY/4vr3xhoP4wL/ud3TylpP1tbP0rKr1pKIp5/6lAAADTElEQVR4nO2a2XqiQBBGWxHpAAI2sruAGNyI7/9402iSz4n5rGqk52bqXMaEOsFe/l4YIwiCIAiCIAiCIAgCB+fccXzfdd1Aslqtpj+QP+o+kb/g+45jcz5IVccP4sWk3DTVNqmjNAvDPM+FEOavyA9EnodhlkZ1sq2KZXlcx4Hr9HTh0902DYU5Mwxr1AvLMGaeCNNkObfV68eVMPrV/cXES94VX4O9E0NVv+E1vlL9ZrD//gtr6+Lr8/Pg9TsD/DvYe8PXlwZLbDtwMx31ZTtYIAV2Gr6ADqvC9UYn0lN/NDJjlECspQV0WC1KoOw58CE4oJphpU8gxfREu9ZWfyRWCAE3hB5jvfUVmK0RAlMTeIpRpH0VjCNCYD2DnjLxy7CfgvWBENhDw5AxYSzY5X0UrAYhsIE6gRQYS4WNGKkrnBD9sMAIjMeMr85Qa3mkdmCBE/SQm0CnEDem4kvI4IGAJ1iBTmF+8JQUQjiVqAh0CovTTEEhD0ABG5wL7wWkgr1WUBCwgJOqCUgFZ5IYSAVzqkGgUzjWOAVEIvDBPPYoIIcFf59iFHQJXBXaDB4cvTksAE6Gvwp0Ci48RegU6BSCCzBF6BUYf04RrwnAeeSJwG2KeBJq/4EAc8on70C7AHP20bM8oVkAHpC0NkJmTxJoVtAowPgaLK9RoJuWMckAI9BjKJbBBFVek4CMZgdsNMNMRorTMePTwnzDJpLB8wBjq0Ylnpvw4hDenrgLpSw450qrA0Qk4+Di+DuWj92N6hItHy4VyzHzor5CRMRy3MJENtYPRAB6ALEwQS3NmNOiIuADmKUZYnFqyymv3w4BZnHagsvzBpnBH7HOcH14g8LqW17+aYkQALdoXgC1RQMnkv7MMLvF+nZqUQOhpNInECF6oc6tWtQeFWNzbZvVxh4loK8RCDgNXNF2YFEgz2xcMJP0w4QD4SdHLa3AuGDrM77UcWxXofrgDfsMTQjKGJXa0WmbD1vf2yjVl8SFsIYakSzvtFY/w+fTtohC4b1wfG9dj++jqpwrfP1/OVwvMLwf292yOCV1lD29v/B9gyFL6+R0WO7a/eSVCww/Zbh9f4Xj5w2OrzsctyscA93gIAiCIAiCIAiCIIj/gz/bqUdZ60okEwAAAABJRU5ErkJggg==)](https://www.youtube.com/watch?v=q3c_q5krmw4&list=LL&index=4&t=169s)
+
+ ![Video Youtube](https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png)
+ - [![VIDEO YOUTUBE](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAjVBMVEX////kKyb///7lMi34ycfqQj394eDkLCf//PzkKCP++Pj+9/f97e3mODPnPTj+8PD85uX72djoR0PrUk761NPtYV383t3vbGntXVntWVXpSkbyi4jzmpj85OP60tHznpz2sK71hIDzeHXtZmL2q6n6y8n0kY/4vr3xhoP4wL/ud3TylpP1tbP0rKr1pKIp5/6lAAADTElEQVR4nO2a2XqiQBBGWxHpAAI2sruAGNyI7/9402iSz4n5rGqk52bqXMaEOsFe/l4YIwiCIAiCIAiCIAgCB+fccXzfdd1Aslqtpj+QP+o+kb/g+45jcz5IVccP4sWk3DTVNqmjNAvDPM+FEOavyA9EnodhlkZ1sq2KZXlcx4Hr9HTh0902DYU5Mwxr1AvLMGaeCNNkObfV68eVMPrV/cXES94VX4O9E0NVv+E1vlL9ZrD//gtr6+Lr8/Pg9TsD/DvYe8PXlwZLbDtwMx31ZTtYIAV2Gr6ADqvC9UYn0lN/NDJjlECspQV0WC1KoOw58CE4oJphpU8gxfREu9ZWfyRWCAE3hB5jvfUVmK0RAlMTeIpRpH0VjCNCYD2DnjLxy7CfgvWBENhDw5AxYSzY5X0UrAYhsIE6gRQYS4WNGKkrnBD9sMAIjMeMr85Qa3mkdmCBE/SQm0CnEDem4kvI4IGAJ1iBTmF+8JQUQjiVqAh0CovTTEEhD0ABG5wL7wWkgr1WUBCwgJOqCUgFZ5IYSAVzqkGgUzjWOAVEIvDBPPYoIIcFf59iFHQJXBXaDB4cvTksAE6Gvwp0Ci48RegU6BSCCzBF6BUYf04RrwnAeeSJwG2KeBJq/4EAc8on70C7AHP20bM8oVkAHpC0NkJmTxJoVtAowPgaLK9RoJuWMckAI9BjKJbBBFVek4CMZgdsNMNMRorTMePTwnzDJpLB8wBjq0Ylnpvw4hDenrgLpSw450qrA0Qk4+Di+DuWj92N6hItHy4VyzHzor5CRMRy3MJENtYPRAB6ALEwQS3NmNOiIuADmKUZYnFqyymv3w4BZnHagsvzBpnBH7HOcH14g8LqW17+aYkQALdoXgC1RQMnkv7MMLvF+nZqUQOhpNInECF6oc6tWtQeFWNzbZvVxh4loK8RCDgNXNF2YFEgz2xcMJP0w4QD4SdHLa3AuGDrM77UcWxXofrgDfsMTQjKGJXa0WmbD1vf2yjVl8SFsIYakSzvtFY/w+fTtohC4b1wfG9dj++jqpwrfP1/OVwvMLwf292yOCV1lD29v/B9gyFL6+R0WO7a/eSVCww/Zbh9f4Xj5w2OrzsctyscA93gIAiCIAiCIAiCIIj/gz/bqUdZ60okEwAAAABJRU5ErkJggg==)](https://youtu.be/q3c_q5krmw4)
+
 ***
 
 ## Índice
 
 1. [Lenguajes mas usados](#lenguajes-mas-usados--)✨
-2. [El fronted y el backend](#contenido-del-proyecto-)📋
-3. [Evolucion general del Software](#tecnologías-)⭐
-4. [Aspectos importantes de la Arquitectura](#ide-)🌎
-5. [Implicaciones de una Arquitectura basada en HTML5](#instalación-)🔨
+2. [El fronted y el backend](#el-fronted-y-el-backend---)📋
+3. [Evolucion general del Software](#evolución-general-del-software-)⭐
+4. [Aspectos importantes de la Arquitectura](#aspectos-importantes-de-la-arquitectura-)🌎
+5. [Implicaciones de una Arquitectura basada en HTML5](#implicaciones-de-una-arquitectura-basada-en-html5----)🔨
 ***
 
 #### Lenguajes mas usados  ✨: 
