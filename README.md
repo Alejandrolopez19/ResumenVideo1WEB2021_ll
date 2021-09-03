@@ -2,7 +2,7 @@
 
 ## Tendencias en el Desarrollo de Software moderno
 ***
-###https://youtu.be/q3c_q5krmw4
+https://youtu.be/q3c_q5krmw4
 
 ***
 
